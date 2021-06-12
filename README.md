@@ -28,7 +28,8 @@ Keduanya memiliki template yang sama dengan mengconnectkan 1 file css
 
 ![9 6](https://user-images.githubusercontent.com/81818405/121775211-6be84980-cbb0-11eb-8b5e-75f0bdaf219c.PNG)
 
-
+Link praktikum 10
+https://github.com/sandiPrastiyo311910201/Lab10Web/blob/56990904acf24a32ed0152a75bda103ee67a41d4/README.md
 
 
 
